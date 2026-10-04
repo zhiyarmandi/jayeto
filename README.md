@@ -2,18 +2,18 @@
 
 A modern villa and accommodation rental website built with React and Vite.
 
-## ✨ Features
+## Features
 
-* 🏡 Browse villas and accommodations
-* 🔎 Search and filter properties
-* 📍 Filter by city
-* 🏠 Filter by property type
-* 💰 Filter by price range
-* 📱 Responsive design
-* 📄 Property details page
-* ⚡ Fast and modern UI
+ Browse villas and accommodations
+ Search and filter properties
+ Filter by city
+ Filter by property type
+ Filter by price range
+ Responsive design
+ Property details page
+ Fast and modern UI
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * React
 * Vite
@@ -23,7 +23,7 @@ A modern villa and accommodation rental website built with React and Vite.
 * Lucide React
 * React Icons
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
@@ -61,7 +61,7 @@ npm run build
 npm run preview
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 jayeto/
@@ -75,6 +75,3 @@ jayeto/
 └── README.md
 ```
 
-## 📌 Project Status
-
-This project is actively being developed as a Front-End portfolio project.
